@@ -8,6 +8,8 @@
 | 2 | customer_master.csv | 2019년 3월 말 시점의 회원 데이터 |
 | 3 | class_master.csv | 회원 구분 데이터(종일, 주간, 야간) |
 | 4 | campaign_master.csv | 행사 구분 데이터(입회비 유무 등) |
+| 5 | customer_join.csv | join 데이터 |
+| 6 | customer_newer.csv | 가장 최근 월의 고객 데이터 |
 
 - 내용 
 
